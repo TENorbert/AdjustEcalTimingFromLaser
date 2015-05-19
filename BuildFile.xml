@@ -1,0 +1,12 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/PluginManager"/>
+<use name="OnlineDB/EcalCondDB"/>
+<use   name="DataFormats/EcalDetId"/>
+<use   name="Geometry/EcalMapping"/>
+<use   name="Geometry/CaloGeometry"/>
+<use   name="DQM/EcalCommon"/>
+<use   name="root"/>
+<use   name="rootcore"/>
+<use   name="rootinteractive"/>
+<use   name="rootgraphics"/>
+<flags EDM_PLUGIN="1"/>
